@@ -32,19 +32,19 @@ Here are some of the tools and technologies I work with:
 
 Here are some of the projects I'm most proud of:
 
-### 🎉 [Django Event Management Web App](https://github.com/your-username/django-event-management)
+### 🎉 [Django Event Management Web App](https://github.com/NyashaEysenck/Event-Hub)
 An advanced event management platform that not only allows users to create and manage events but also leverages **sentiment analysis** to gauge user feedback. Plus, it features **Gemini-powered text generation** for crafting creative event descriptions.
 
 - **Tech Stack:** Django, SQLite, TensorFlow (Sentiment Analysis), Gemini AI
 - **Key Features:** Event CRUD operations, user registration, email notifications, sentiment analysis, creative text generation
 
-### 🚗 [Automatic Vehicle Recognition System](https://github.com/your-username/vehicle-recognition)
+### 🚗 [Automatic Vehicle Recognition System](https://github.com/NyashaEysenck/Automatic-Vehicle-Recognition)
 A cutting-edge Flask-based system that integrates **OpenCV** and **EasyOCR** for real-time license plate detection and recognition. This project exemplifies my expertise in computer vision and real-time processing.
 
 - **Tech Stack:** Flask, OpenCV, EasyOCR, MySQL
 - **Key Features:** Real-time license plate recognition, vehicle registration and management, detailed reporting system
 
-### 🎓 [IBM Machine Learning Capstone](https://github.com/your-username/ibm-ml-capstone)
+### 🎓 [IBM Machine Learning Capstone](https://github.com/NyashaEysenck/Machine-Learning-Capstone)
 This project showcases a **course recommender system** built from scratch using Python. The capstone highlights my ability to apply machine learning principles to create intelligent recommendation engines.
 
 - **Tech Stack:** Python, scikit-learn, Pandas, Streamlit
@@ -54,8 +54,8 @@ This project showcases a **course recommender system** built from scratch using 
 
 ## 📈 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NyashaEysenck&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yNyashaEysenck&layout=compact&theme=radical)
 
 ---
 
