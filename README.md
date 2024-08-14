@@ -10,6 +10,13 @@ I believe in the power of technology to transform lives and drive positive chang
 
 ---
 
+## 🌟 Guided by Wisdom
+"The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding." — Proverbs 9:10
+
+In every project I undertake, I strive to embody this principle by pursuing knowledge with integrity and purpose. I believe that wisdom and understanding are the foundations upon which we build meaningful solutions and contribute positively to the world.
+
+---
+
 ## 🛠️ Technologies & Tools
 
 Here are some of the tools and technologies I work with:
@@ -55,7 +62,7 @@ This project showcases a **course recommender system** built from scratch using 
 ## 📈 GitHub Stats & Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NyashaEysenck&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yNyashaEysenck&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyashaEysenck&layout=compact&theme=radical)
 
 ---
 
@@ -66,5 +73,3 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 ---
-
-*"The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt*
