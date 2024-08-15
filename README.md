@@ -42,7 +42,7 @@ Here are some of the projects I'm most proud of:
 ### 🎉 [Django Event Management Web App](https://github.com/NyashaEysenck/Event-Hub)
 An advanced event management platform that not only allows users to create and manage events but also leverages **sentiment analysis** to gauge user feedback. Plus, it features **Gemini-powered text generation** for crafting creative event descriptions.
 
-- **Tech Stack:** Django, SQLite, TensorFlow (Sentiment Analysis), Gemini AI
+- **Tech Stack:** Django, SQLite, Scikitlearn (Sentiment Analysis), Gemini AI
 - **Key Features:** Event CRUD operations, user registration, email notifications, sentiment analysis, creative text generation
 
 ### 🚗 [Automatic Vehicle Recognition System](https://github.com/NyashaEysenck/Automatic-Vehicle-Recognition)
