@@ -70,6 +70,6 @@ This project showcases a **course recommender system** built from scratch using 
 
 I'm always open to discussing new opportunities, collaborations, or just chatting about tech. Feel free to connect with me on:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyasha-gandah-8997b8311/)  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://nyashaeysenck.github.io/)
 
 ---
